@@ -1,4 +1,4 @@
-# ShiftAnd
+# Shift-And
 Shift-AND algorithm for exact string matching
 
 Algorithm reference:
